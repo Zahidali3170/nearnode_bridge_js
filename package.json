@@ -1,0 +1,17 @@
+{
+  "name": "nearnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@near-eth/client": "^1.8.0",
+    "@near-eth/near-ether": "^2.2.0",
+    "near-api-js": "^0.45.1",
+    "rainbow-bridge-cli": "^3.0.0"
+  }
+}
